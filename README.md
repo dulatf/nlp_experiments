@@ -1,4 +1,3 @@
-# NLP experiments in JuliaLang
-So far we have a simple part-of-speech tagger using a hidden Markov model.
-Implemented from scratch in Julia.
-
+# NLP experiments in Python and Julia
+- a simple part-of-speech tagger using a hidden Markov model implemented from scratch in Julia.
+- a simple seq2seq neural translator using tensorflow 2.0
